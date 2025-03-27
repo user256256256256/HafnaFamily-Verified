@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #86B817;
+    --primary: #458437;
     --secondary: #FE8800;
     --light: #F5F5F5;
     --dark: #14141F;
@@ -14,12 +14,14 @@
     font-weight: 700 !important;
 }
 
-.back-to-top {
+.wh-action-btn {
     position: fixed;
     display: none;
     right: 45px;
     bottom: 45px;
     z-index: 99;
+    background-color: #458437;
+    border-color: #458437;
 }
 
 
