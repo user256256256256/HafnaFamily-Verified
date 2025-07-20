@@ -47,7 +47,7 @@ class PopularActivities extends HTMLElement {
                     <div class="row g-3">
                         <div class="col-lg-12 col-md-12 wow zoomIn" data-wow-delay="0.1s">
                             <a class="position-relative d-block overflow-hidden" href="">
-                                <img class="img-fluid" src="img/destination-1.jpg" alt="">
+                                <img class="img-fluid" src="img/popular-activites 1.jpg" alt="">
                                 <div class="bg-white text-primary fw-bold position-absolute bottom-0 end-0 m-3 py-1 px-2">Thailand</div>
                             </a>
                         </div>
